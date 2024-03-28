@@ -1,10 +1,15 @@
-# Halo semua! 
+# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+Lifelong Learner, I am an undergraduate student in computer science at Padjadjaran University.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
-Perkenalkan nama saya **Chairal Octavyanz**.<br>
-
-Saya seorang **mahasiswA** di [Universitas Padjadjaran](www.unpad.ac.id).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chairal-octavyanz/)ku ya.
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://www.instagram.com/chairaloct/">
+  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/chairal-octavyanz/">
+  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
 
 
 ### Github Statistic
