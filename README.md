@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Chairal!</strong></summary>
 Lifelong Learner, I am an undergraduate student in computer science at Padjadjaran University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -11,6 +11,7 @@ Lifelong Learner, I am an undergraduate student in computer science at Padjadjar
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
+</br>
 
 ### Github Statistic
 <p align="left">
