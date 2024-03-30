@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Chairal!</strong></summary>
 Lifelong Learner, I am an undergraduate student in computer science at Padjadjaran University.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lariach&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 ### <summary><strong>Let's connect!</strong></summary>
@@ -13,7 +13,7 @@ Lifelong Learner, I am an undergraduate student in computer science at Padjadjar
 
 </br>
 
-/*
+
 ### <summary><strong>Github Statistic</strong></summary>
 <p align="left">
 <a href="https://github.com/penuliscode">
